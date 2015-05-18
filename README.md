@@ -1,11 +1,8 @@
-BookPublicationAnalysis
+SchoolAnalysis
 ==============================
 
 MapReduce program to analyse the Exam results of an exam
 
-
-##Data set Description:
-The Book-Crossing dataset consists of 3 tables.
 
 
 ##Goal:
